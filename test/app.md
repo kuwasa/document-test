@@ -1,5 +1,5 @@
 # アプリケーションについて
 
-![QuartzNetwork](img/logo.svg)
+![QuartzNetwork](img/hari.jpeg)
 
 この章では、みなさんにアプリケーションについて解説をしていきたいと思います。
